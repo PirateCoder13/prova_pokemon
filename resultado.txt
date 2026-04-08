@@ -1,0 +1,366 @@
+========== QUESTÃO 1 ==========
+----------------------------
+Número: 25
+Nome: Pikachu
+Tipo: Elétrico
+Nível: 12
+HP: 35 / 35
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Raichu
+Nível para evoluir: 20
+----------------------------
+Categoria: Pokémon Elétrico
+============================
+----------------------------
+Número: 4
+Nome: Charmander
+Tipo: Fogo
+Nível: 15
+HP: 39 / 39
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Charmeleon
+Nível para evoluir: 16
+----------------------------
+Categoria: Pokémon de Fogo
+============================
+----------------------------
+Número: 7
+Nome: Squirtle
+Tipo: Água
+Nível: 10
+HP: 44 / 44
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Wartortle
+Nível para evoluir: 16
+----------------------------
+Categoria: Pokémon de Água
+============================
+
+========== QUESTÃO 2 ==========
+----------------------------
+Número: 25
+Nome: Pikachu
+Tipo: Elétrico
+Nível: 17
+HP: 29 / 35
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Raichu
+Nível para evoluir: 20
+----------------------------
+Categoria: Pokémon Elétrico
+============================
+----------------------------
+Número: 7
+Nome: Squirtle
+Tipo: Água
+Nível: 12
+HP: 34 / 44
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Wartortle
+Nível para evoluir: 16
+----------------------------
+Categoria: Pokémon de Água
+============================
+
+========== QUESTÃO 3 ==========
+Charmander evoluiu para Charmeleon!
+Pikachu ainda não pode evoluir.
+Pikachu foi adicionado à Pokédex.
+Charmeleon foi adicionado à Pokédex.
+Squirtle foi adicionado à Pokédex.
+Bulbasaur foi adicionado à Pokédex.
+Eevee foi adicionado à Pokédex.
+Magikarp foi adicionado à Pokédex.
+Vulpix foi adicionado à Pokédex.
+Mareep foi adicionado à Pokédex.
+
+========== QUESTÃO 4 ==========
+Listando todos os pokémons:
+----------------------------
+Número: 25
+Nome: Pikachu
+Tipo: Elétrico
+Nível: 17
+HP: 29 / 35
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Raichu
+Nível para evoluir: 20
+----------------------------
+Categoria: Pokémon Elétrico
+============================
+----------------------------
+Número: 4
+Nome: Charmeleon
+Tipo: Fogo
+Nível: 16
+HP: 59 / 59
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+----------------------------
+Categoria: Pokémon de Fogo
+============================
+----------------------------
+Número: 7
+Nome: Squirtle
+Tipo: Água
+Nível: 12
+HP: 34 / 44
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Wartortle
+Nível para evoluir: 16
+----------------------------
+Categoria: Pokémon de Água
+============================
+----------------------------
+Número: 1
+Nome: Bulbasaur
+Tipo: Planta
+Nível: 9
+HP: 45 / 45
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Ivysaur
+Nível para evoluir: 16
+----------------------------
+----------------------------
+Número: 133
+Nome: Eevee
+Tipo: Normal
+Nível: 18
+HP: 55 / 55
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Vaporeon
+Nível para evoluir: 20
+----------------------------
+----------------------------
+Número: 129
+Nome: Magikarp
+Tipo: Água
+Nível: 20
+HP: 20 / 20
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Gyarados
+Nível para evoluir: 20
+----------------------------
+Categoria: Pokémon de Água
+============================
+----------------------------
+Número: 37
+Nome: Vulpix
+Tipo: Fogo
+Nível: 18
+HP: 38 / 38
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Ninetales
+Nível para evoluir: 25
+----------------------------
+Categoria: Pokémon de Fogo
+============================
+----------------------------
+Número: 179
+Nome: Mareep
+Tipo: Elétrico
+Nível: 14
+HP: 40 / 40
+Energia: 100
+Visto: Não
+Capturado: Não
+Favorito: Não
+Próxima evolução: Flaaffy
+Nível para evoluir: 15
+----------------------------
+Categoria: Pokémon Elétrico
+============================
+Pokémon encontrado pelo número 25: Pikachu
+Pokémon número 179 removido com sucesso.
+Mareep foi adicionado à Pokédex.
+
+========== QUESTÃO 9 ==========
+Vulpix não pode ser favoritado porque ainda não foi capturado.
+Bulbasaur - visto: true, capturado: true, favorito: true
+Eevee - visto: true, capturado: true, favorito: true
+Vulpix - visto: false, capturado: false, favorito: false
+
+========== QUESTÃO 5 ==========
+
+Capturados:
+- Charmeleon (Fogo)
+- Squirtle (Água)
+- Bulbasaur (Planta)
+- Eevee (Normal)
+
+Tipo Água:
+- Squirtle (Água)
+- Magikarp (Água)
+
+Acima do nível 10:
+- Pikachu (Elétrico)
+- Charmeleon (Fogo)
+- Squirtle (Água)
+- Eevee (Normal)
+- Magikarp (Água)
+- Vulpix (Fogo)
+- Mareep (Elétrico)
+
+Que podem evoluir:
+- Magikarp (Água)
+
+========== QUESTÃO 10 ==========
+
+HP abaixo de 30:
+- Pikachu (Elétrico)
+- Magikarp (Água)
+
+Ordenados por nome:
+- Bulbasaur (Planta)
+- Charmeleon (Fogo)
+- Eevee (Normal)
+- Magikarp (Água)
+- Mareep (Elétrico)
+- Pikachu (Elétrico)
+- Squirtle (Água)
+- Vulpix (Fogo)
+
+Ordenados por nível decrescente:
+- Magikarp (Água)
+- Eevee (Normal)
+- Vulpix (Fogo)
+- Pikachu (Elétrico)
+- Charmeleon (Fogo)
+- Mareep (Elétrico)
+- Squirtle (Água)
+- Bulbasaur (Planta)
+
+Favoritos:
+- Bulbasaur (Planta)
+- Eevee (Normal)
+
+========== QUESTÃO 6 ==========
+----------------------------
+Número: 25
+Nome: Pikachu
+Tipo: Elétrico
+Nível: 17
+HP: 29 / 35
+Energia: 100
+Visto: Sim
+Capturado: Não
+Favorito: Não
+Próxima evolução: Raichu
+Nível para evoluir: 20
+----------------------------
+Categoria: Pokémon Elétrico
+============================
+----------------------------
+Número: 7
+Nome: Squirtle
+Tipo: Água
+Nível: 12
+HP: 34 / 44
+Energia: 100
+Visto: Sim
+Capturado: Sim
+Favorito: Não
+Próxima evolução: Wartortle
+Nível para evoluir: 16
+----------------------------
+Categoria: Pokémon de Água
+============================
+----------------------------
+Número: 4
+Nome: Charmeleon
+Tipo: Fogo
+Nível: 16
+HP: 59 / 59
+Energia: 100
+Visto: Sim
+Capturado: Sim
+Favorito: Não
+----------------------------
+Categoria: Pokémon de Fogo
+============================
+
+========== QUESTÕES 7 E 8 ==========
+Pikachu usou Choque do Trovão. HP restante de Squirtle: 0
+Squirtle foi derrotado!
+Squirtle usou Jato D'Água. HP restante de Pikachu: 0
+Pikachu foi derrotado!
+Charmeleon usou Lança-Chamas. HP restante de Bulbasaur: 0
+Bulbasaur foi derrotado!
+
+========== QUESTÃO 12 ==========
+Magikarp evoluiu para Gyarados!
+Mareep evoluiu para Flaaffy!
+
+--- Batalha 1 ---
+Pikachu usou Choque do Trovão. HP restante de Charmeleon: 5
+Charmeleon usou Lança-Chamas. HP restante de Pikachu: 0
+Pikachu foi derrotado!
+
+--- Batalha 2 ---
+Squirtle usou Jato D'Água. HP restante de Gyarados: 3
+Gyarados usou Jato D'Água. HP restante de Squirtle: 0
+Squirtle foi derrotado!
+
+
+Filtro - Capturados:
+- Pikachu (Elétrico)
+- Charmeleon (Fogo)
+- Squirtle (Água)
+- Bulbasaur (Planta)
+- Eevee (Normal)
+- Gyarados (Água)
+
+Filtro - Tipo Fogo:
+- Charmeleon (Fogo)
+- Vulpix (Fogo)
+
+Filtro - Acima do nível 15:
+- Pikachu (Elétrico)
+- Charmeleon (Fogo)
+- Eevee (Normal)
+- Gyarados (Água)
+- Vulpix (Fogo)
+
+Filtro - Podem evoluir:
+Nenhum pokémon encontrado.
+
+========== QUESTÃO 11 ==========
+Total de pokémons: 8
+Quantidade por tipo: {Elétrico: 2, Fogo: 2, Água: 2, Planta: 1, Normal: 1}
+Média de nível: 15.63
+Percentual capturados: 75.00%
