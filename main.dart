@@ -58,6 +58,7 @@ class Pokemon implements RegistravelNaPokedex {
   int get hpAtual => _hpAtual;
   int get hpMaximo => _hpMaximo;
 
+  //exibe pokemon
   void exibirFicha() {
     print('----------------------------');
     print('Número: $numero');
@@ -78,6 +79,7 @@ class Pokemon implements RegistravelNaPokedex {
     print('----------------------------');
   }
 
+  //sobe nivel
   void subirNivel(int quantidade) {
     if (quantidade < 0) {
       print('Não é permitido subir nível com valor negativo.');
@@ -95,6 +97,7 @@ class Pokemon implements RegistravelNaPokedex {
     }
   }
 
+  //recebe dano
   void receberDano(int dano) {
     if (dano < 0) {
       print('Não é permitido receber dano negativo.');
@@ -108,6 +111,7 @@ class Pokemon implements RegistravelNaPokedex {
     }
   }
 
+  //cura
   void curar(int valor) {
     if (valor < 0) {
       print('Não é permitido curar valor negativo.');
@@ -121,6 +125,7 @@ class Pokemon implements RegistravelNaPokedex {
     }
   }
 
+  //evolui
   void evoluir() {
     if (proximaEvolucao == null) {
       print('$nome não possui evolução configurada.');
@@ -139,6 +144,7 @@ class Pokemon implements RegistravelNaPokedex {
     _hpAtual = _hpMaximo;
   }
 
+  //ataque base
   int calcularAtaqueBase() {
     return _nivel * 2;
   }
@@ -154,6 +160,7 @@ class Pokemon implements RegistravelNaPokedex {
     visto = true;
   }
 
+  //favorito
   @override
   void favoritar() {
     if (!capturado) {
@@ -272,6 +279,7 @@ class Pokedex {
 // ====================== PARTE DA YASMIN ======================
 // Herança e habilidades
 
+//fogo
 class PokemonFogo extends Pokemon {
   PokemonFogo({
     required int numero,
@@ -309,10 +317,11 @@ class PokemonFogo extends Pokemon {
   void exibirFicha() {
     super.exibirFicha();
     print('Categoria: Pokémon de Fogo');
-    print('============================');
+    print('= = = = = = =  = = = = = = =');
   }
 }
 
+//agua
 class PokemonAgua extends Pokemon {
   PokemonAgua({
     required int numero,
@@ -350,10 +359,11 @@ class PokemonAgua extends Pokemon {
   void exibirFicha() {
     super.exibirFicha();
     print('Categoria: Pokémon de Água');
-    print('============================');
+    print('= = = = = = =  = = = = = = =');
   }
 }
 
+//eletrico
 class PokemonEletrico extends Pokemon {
   PokemonEletrico({
     required int numero,
@@ -391,7 +401,7 @@ class PokemonEletrico extends Pokemon {
   void exibirFicha() {
     super.exibirFicha();
     print('Categoria: Pokémon Elétrico');
-    print('============================');
+    print('= = = = = = =  = = = = = = =');
   }
 }
 
